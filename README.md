@@ -36,6 +36,7 @@
 - https://jsfiddle.net/
 - http://cssdeck.com/
 - http://jsdares.com/
+- http://pingendo.com/
 
 ## Best Practicies
 - http://isobar-idev.github.io/code-standards/
