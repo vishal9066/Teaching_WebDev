@@ -1,7 +1,5 @@
 # Teaching WebDev
 
-## References
-
 ## Tutorials/References/Classes
 - https://www.codecademy.com/
 - https://www.khanacademy.org/computing
