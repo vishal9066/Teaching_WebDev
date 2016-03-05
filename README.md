@@ -24,6 +24,11 @@
 ## Frameworks
 - http://phaser.io/
 - http://googlecreativelab.github.io/coder/
+- http://flexboxgrid.com/
+- http://getbootstrap.com/
+- http://getskeleton.com/
+- http://foundation.zurb.com/
+- http://purecss.io/
 
 ## Tools
 - http://codepen.io/
