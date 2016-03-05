@@ -43,3 +43,4 @@
 
 # Other Link Aggregates
 - https://github.com/sindresorhus/awesome#front-end-development
+- https://github.com/dypsilon/frontend-dev-bookmarks
