@@ -30,6 +30,8 @@
 
 ## Books
 - http://eloquentjavascript.net/
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
 
 ## Frameworks/Libraries
 - http://googlecreativelab.github.io/coder/
