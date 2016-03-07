@@ -22,14 +22,26 @@
 - http://eloquentjavascript.net/
 
 ## Frameworks
-- http://phaser.io/
 - http://googlecreativelab.github.io/coder/
 - http://flexboxgrid.com/
 - http://getbootstrap.com/
 - http://getskeleton.com/
 - http://foundation.zurb.com/
 - http://purecss.io/
+Javascript:
+- http://phaser.io/
+- https://jquery.com/
+- http://zeptojs.com/
 - http://todomvc.com/
+- https://www.meteor.com/
+- https://angularjs.org/
+- https://facebook.github.io/react/
+- http://vuejs.org/
+- http://knockoutjs.com/
+- http://aurelia.io/
+- http://expressjs.com/
+- http://backbonejs.org/
+- http://emberjs.com/
 
 ## Tools
 - http://codepen.io/
