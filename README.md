@@ -21,7 +21,7 @@
 ## Books
 - http://eloquentjavascript.net/
 
-## Frameworks
+## Frameworks/Libraries
 - http://googlecreativelab.github.io/coder/
 - CSS:
   - http://flexboxgrid.com/
@@ -30,6 +30,8 @@
   - http://foundation.zurb.com/
   - http://purecss.io/
 - Javascript:
+  - https://babeljs.io/
+  - https://github.com/kriskowal/q
   - Frontend:
     - https://jquery.com/
     - http://zeptojs.com/
