@@ -23,11 +23,12 @@
 
 ## Frameworks
 - http://googlecreativelab.github.io/coder/
-- http://flexboxgrid.com/
-- http://getbootstrap.com/
-- http://getskeleton.com/
-- http://foundation.zurb.com/
-- http://purecss.io/
+- CSS:
+  - http://flexboxgrid.com/
+  - http://getbootstrap.com/
+  - http://getskeleton.com/
+  - http://foundation.zurb.com/
+  - http://purecss.io/
 - Javascript:
   - http://phaser.io/
   - https://jquery.com/
