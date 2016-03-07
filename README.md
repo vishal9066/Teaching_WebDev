@@ -8,6 +8,15 @@
 - http://www.lynda.com/Developer-training-tutorials/50-0.html
 - https://www.udacity.com/courses/web-development
 - https://www.udemy.com/courses/development/web-development/
+- https://www.coursera.org/browse/computer-science/mobile-and-web-development
+- https://www.edx.org/course/subject/computer-science
+- http://www.codewars.com/
+- https://www.hackerrank.com/
+- http://marksheet.io/
+- https://www.javascript.com/
+- http://jsforcats.com/
+- http://www.learn-js.org/
+- http://nodeschool.io/#workshoppers
 - https://www.codeschool.com/
 - http://learn.shayhowe.com/html-css/
 - http://www.htmldog.com/
@@ -17,6 +26,7 @@
 - http://tympanus.net/codrops/css_reference/
 - http://codepen.io/shshaw/full/gEiDt
 - http://www.flexboxdefense.com/
+- https://www.bento.io/grid
 
 ## Books
 - http://eloquentjavascript.net/
