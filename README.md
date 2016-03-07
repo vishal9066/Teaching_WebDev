@@ -30,19 +30,27 @@
   - http://foundation.zurb.com/
   - http://purecss.io/
 - Javascript:
-  - http://phaser.io/
-  - https://jquery.com/
-  - http://zeptojs.com/
-  - http://todomvc.com/
-  - https://www.meteor.com/
-  - https://angularjs.org/
-  - https://facebook.github.io/react/
-  - http://vuejs.org/
-  - http://knockoutjs.com/
-  - http://aurelia.io/
-  - http://expressjs.com/
-  - http://backbonejs.org/
-  - http://emberjs.com/
+  - Frontend:
+    - https://jquery.com/
+    - http://zeptojs.com/
+    - http://phantomjs.org/
+    - https://angularjs.org/
+    - https://facebook.github.io/react/
+    - http://vuejs.org/
+    - http://knockoutjs.com/
+    - http://aurelia.io/
+    - http://emberjs.com/
+    - http://phantomjs.org/
+  - Backend: (most are also frontend)
+    - http://mean.io/
+    - http://meanjs.org/
+    - https://www.meteor.com/
+    - http://expressjs.com/
+    - http://hapijs.com/
+    - http://sailsjs.org/
+    - http://backbonejs.org/
+  - Games:
+    - http://phaser.io/
 
 ## Tools
 - http://codepen.io/
