@@ -27,6 +27,7 @@
 - http://codepen.io/shshaw/full/gEiDt
 - http://www.flexboxdefense.com/
 - https://www.bento.io/grid
+- https://www.devtools.online/#!/development/everything/
 
 ## Books
 - http://eloquentjavascript.net/
