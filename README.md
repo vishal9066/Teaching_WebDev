@@ -1,33 +1,35 @@
 # Teaching WebDev
 
 ## Tutorials/References/Classes
-- https://www.codecademy.com/
-- https://www.khanacademy.org/computing
-- http://www.crunchzilla.com/
-- http://code.tutsplus.com/
-- http://www.lynda.com/Developer-training-tutorials/50-0.html
-- https://www.udacity.com/courses/web-development
-- https://www.udemy.com/courses/development/web-development/
-- https://www.coursera.org/browse/computer-science/mobile-and-web-development
-- https://www.edx.org/course/subject/computer-science
-- http://www.codewars.com/
-- https://www.hackerrank.com/
-- http://marksheet.io/
-- https://www.javascript.com/
-- http://jsforcats.com/
-- http://www.learn-js.org/
-- http://nodeschool.io/#workshoppers
-- https://www.codeschool.com/
-- http://learn.shayhowe.com/html-css/
-- http://www.htmldog.com/
-- http://learnlayout.com/
-- http://www.barelyfitz.com/screencast/html-training/css/positioning/
-- https://css-tricks.com/
-- http://tympanus.net/codrops/css_reference/
-- http://codepen.io/shshaw/full/gEiDt
-- http://www.flexboxdefense.com/
-- https://www.bento.io/grid
-- https://www.devtools.online/#!/development/everything/
+- Teaching Sites:
+  - https://www.codecademy.com/
+  - https://www.khanacademy.org/computing
+  - http://www.crunchzilla.com/
+  - http://code.tutsplus.com/
+  - http://www.lynda.com/Developer-training-tutorials/50-0.html
+  - https://www.udacity.com/courses/web-development
+  - https://www.udemy.com/courses/development/web-development/
+  - https://www.coursera.org/browse/computer-science/mobile-and-web-development
+  - https://www.edx.org/course/subject/computer-science
+- Other:
+  - http://www.codewars.com/
+  - https://www.hackerrank.com/
+  - http://marksheet.io/
+  - https://www.javascript.com/
+  - http://jsforcats.com/
+  - http://www.learn-js.org/
+  - http://nodeschool.io/#workshoppers
+  - https://www.codeschool.com/
+  - http://learn.shayhowe.com/html-css/
+  - http://www.htmldog.com/
+  - http://learnlayout.com/
+  - http://www.barelyfitz.com/screencast/html-training/css/positioning/
+  - https://css-tricks.com/
+  - http://tympanus.net/codrops/css_reference/
+  - http://codepen.io/shshaw/full/gEiDt
+  - http://www.flexboxdefense.com/
+  - https://www.bento.io/grid
+  - https://www.devtools.online/#!/development/everything/
 
 ## Books
 - http://eloquentjavascript.net/
@@ -35,13 +37,13 @@
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
 
 ## Frameworks/Libraries
-- http://googlecreativelab.github.io/coder/
 - CSS:
   - http://flexboxgrid.com/
   - http://getbootstrap.com/
   - http://getskeleton.com/
   - http://foundation.zurb.com/
   - http://purecss.io/
+  - http://materializecss.com/
 - Javascript:
   - https://babeljs.io/
   - https://github.com/kriskowal/q
@@ -66,14 +68,25 @@
     - http://backbonejs.org/
   - Games:
     - http://phaser.io/
+- Other:
+  - http://googlecreativelab.github.io/coder/
 
 ## Tools
-- http://codepen.io/
-- http://jsbin.com/
-- https://jsfiddle.net/
-- http://cssdeck.com/
-- http://jsdares.com/
-- http://pingendo.com/
+- Prototyping:
+  - http://codepen.io/
+  - http://jsbin.com/
+  - https://jsfiddle.net/
+  - http://cssdeck.com/
+  - http://jsdares.com/
+  - http://pingendo.com/
+- Build Tools:
+  - http://webpack.github.io/
+  - http://browserify.org/
+  - http://gruntjs.com/
+  - http://gulpjs.com/
+- Other:
+  - https://modernizr.com/
+  - http://yeoman.io/
 
 ## Best Practicies
 - http://isobar-idev.github.io/code-standards/
