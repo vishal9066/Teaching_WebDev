@@ -101,3 +101,7 @@
 # Other Link Aggregates
 - https://github.com/sindresorhus/awesome#front-end-development
 - https://github.com/dypsilon/frontend-dev-bookmarks
+- https://github.com/showcases/web-application-frameworks
+- https://github.com/showcases/front-end-javascript-frameworks
+- https://github.com/showcases/design-essentials
+- https://github.com/showcases/software-development-tools
