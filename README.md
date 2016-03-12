@@ -53,6 +53,7 @@
     - http://phantomjs.org/
     - https://angularjs.org/
     - https://facebook.github.io/react/
+    - https://github.com/reactjs/redux
     - http://vuejs.org/
     - http://knockoutjs.com/
     - http://aurelia.io/
