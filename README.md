@@ -106,3 +106,4 @@
 - https://github.com/showcases/front-end-javascript-frameworks
 - https://github.com/showcases/design-essentials
 - https://github.com/showcases/software-development-tools
+- http://www.developintelligence.com/blog/2015/09/02/front-end-development-explained-for-non-developers/
