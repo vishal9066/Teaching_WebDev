@@ -73,13 +73,16 @@
   - http://googlecreativelab.github.io/coder/
 
 ## Tools
-- Prototyping:
+- Editing/Prototyping:
   - http://codepen.io/
   - http://jsbin.com/
   - https://jsfiddle.net/
   - http://cssdeck.com/
   - http://jsdares.com/
   - http://pingendo.com/
+  - https://ideone.com/
+  - https://c9.io/
+  - https://floobits.com/
 - Building:
   - http://gruntjs.com/
   - http://gulpjs.com/
