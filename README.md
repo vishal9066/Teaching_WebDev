@@ -32,6 +32,7 @@
   - https://www.devtools.online/#!/development/everything/
   - https://egghead.io/
   - https://scotch.io/
+  - https://github.com/oneuijs/You-Dont-Need-jQuery
 
 ## Books
 - http://eloquentjavascript.net/
@@ -51,6 +52,10 @@
   - https://github.com/kriskowal/q
   - Frontend:
     - https://jquery.com/
+    - https://jqueryui.com/
+    - https://qunitjs.com/
+    - http://sizzlejs.com/
+    - https://github.com/jquery/qunit
     - http://zeptojs.com/
     - http://phantomjs.org/
     - https://angularjs.org/
