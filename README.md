@@ -33,6 +33,7 @@
   - https://egghead.io/
   - https://scotch.io/
   - https://github.com/oneuijs/You-Dont-Need-jQuery
+  - http://youmightnotneedjquery.com/
 
 ## Books
 - http://eloquentjavascript.net/
