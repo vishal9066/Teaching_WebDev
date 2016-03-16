@@ -30,6 +30,8 @@
   - http://www.flexboxdefense.com/
   - https://www.bento.io/grid
   - https://www.devtools.online/#!/development/everything/
+  - https://egghead.io/
+  - https://scotch.io/
 
 ## Books
 - http://eloquentjavascript.net/
