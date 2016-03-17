@@ -34,6 +34,7 @@
   - https://scotch.io/
   - https://github.com/oneuijs/You-Dont-Need-jQuery
   - http://youmightnotneedjquery.com/
+  - http://flexbox.io/
 
 ## Books
 - http://eloquentjavascript.net/
@@ -47,6 +48,14 @@
   - http://getskeleton.com/
   - http://foundation.zurb.com/
   - http://purecss.io/
+  - http://bulma.io/
+  - http://ink.sapo.pt/
+  - http://metroui.org.ua/
+  - http://getuikit.com/
+  - http://getskeleton.com/
+  - http://1000ch.github.io/grd/
+  - http://milligram.github.io/
+  - http://semantic-ui.com/
   - http://materializecss.com/
 - Javascript:
   - https://babeljs.io/
