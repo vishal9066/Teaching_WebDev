@@ -107,6 +107,7 @@
   - http://webpack.github.io/
   - http://browserify.org/
   - http://rollupjs.org/
+  - http://bower.io/
 - Other:
   - https://modernizr.com/
   - http://yeoman.io/
