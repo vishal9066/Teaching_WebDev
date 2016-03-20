@@ -101,6 +101,14 @@
   - https://ideone.com/
   - https://c9.io/
   - https://floobits.com/
+- Debugging:
+  - https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
+  - https://www.codeschool.com/courses/discover-devtools
+  - https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
+  - https://github.com/mrmrs/pesticide
+  - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+  - https://github.com/yahoo/debugCSS
+  - https://gist.github.com/addyosmani/fd3999ea7fce242756b1
 - Building:
   - http://gruntjs.com/
   - http://gulpjs.com/
