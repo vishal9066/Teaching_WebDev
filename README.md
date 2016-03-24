@@ -1,43 +1,43 @@
 # Teaching WebDev
 
-## Tutorials/References/Classes
-- Teaching Sites:
-  - https://www.codecademy.com/
-  - https://www.khanacademy.org/computing
-  - http://www.crunchzilla.com/
-  - http://code.tutsplus.com/
-  - http://www.lynda.com/Developer-training-tutorials/50-0.html
-  - https://www.udacity.com/courses/web-development
-  - https://www.udemy.com/courses/development/web-development/
-  - https://www.coursera.org/browse/computer-science/mobile-and-web-development
-  - https://www.edx.org/course/subject/computer-science
-  - http://www.freecodecamp.com/
-  - http://www.theodinproject.com/
-- Other:
-  - http://www.codewars.com/
-  - https://www.hackerrank.com/
-  - http://marksheet.io/
-  - https://www.javascript.com/
-  - http://jsforcats.com/
-  - http://www.learn-js.org/
-  - http://nodeschool.io/#workshoppers
-  - https://www.codeschool.com/
-  - http://learn.shayhowe.com/html-css/
-  - http://www.htmldog.com/
-  - http://learnlayout.com/
-  - http://www.barelyfitz.com/screencast/html-training/css/positioning/
-  - https://css-tricks.com/
-  - http://tympanus.net/codrops/css_reference/
-  - http://codepen.io/shshaw/full/gEiDt
-  - https://jsfiddle.net/Kleinabermein/2acxj1xt/
-  - http://www.flexboxdefense.com/
-  - https://www.bento.io/grid
-  - https://www.devtools.online/#!/development/everything/
-  - https://egghead.io/
-  - https://scotch.io/
-  - https://github.com/oneuijs/You-Dont-Need-jQuery
-  - http://youmightnotneedjquery.com/
-  - http://flexbox.io/
+## General Websites
+- https://www.codecademy.com/
+- https://www.khanacademy.org/computing
+- http://www.crunchzilla.com/
+- http://code.tutsplus.com/
+- http://www.lynda.com/Developer-training-tutorials/50-0.html
+- https://www.udacity.com/courses/web-development
+- https://www.udemy.com/courses/development/web-development/
+- https://www.coursera.org/browse/computer-science/mobile-and-web-development
+- https://www.edx.org/course/subject/computer-science
+- http://www.freecodecamp.com/
+- http://www.theodinproject.com/
+- http://www.codewars.com/
+- https://www.hackerrank.com/
+- https://egghead.io/
+- https://scotch.io/
+- https://www.codeschool.com/
+
+## Guides/Tutorials:
+- http://marksheet.io/
+- https://www.javascript.com/
+- http://jsforcats.com/
+- http://www.learn-js.org/
+- http://nodeschool.io/#workshoppers
+- http://learn.shayhowe.com/html-css/
+- http://www.htmldog.com/
+- http://learnlayout.com/
+- http://www.barelyfitz.com/screencast/html-training/css/positioning/
+- https://css-tricks.com/
+- http://tympanus.net/codrops/css_reference/
+- http://codepen.io/shshaw/full/gEiDt
+- https://jsfiddle.net/Kleinabermein/2acxj1xt/
+- http://www.flexboxdefense.com/
+- https://www.bento.io/grid
+- https://www.devtools.online/#!/development/everything/
+- https://github.com/oneuijs/You-Dont-Need-jQuery
+- http://youmightnotneedjquery.com/
+- http://flexbox.io/
 
 ## Books
 - http://eloquentjavascript.net/
