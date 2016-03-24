@@ -11,6 +11,8 @@
   - https://www.udemy.com/courses/development/web-development/
   - https://www.coursera.org/browse/computer-science/mobile-and-web-development
   - https://www.edx.org/course/subject/computer-science
+  - http://www.freecodecamp.com/
+  - http://www.theodinproject.com/
 - Other:
   - http://www.codewars.com/
   - https://www.hackerrank.com/
@@ -41,6 +43,8 @@
 - http://eloquentjavascript.net/
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
 
 ## Frameworks/Libraries
 - CSS:
@@ -130,10 +134,6 @@
 - http://isobar-idev.github.io/code-standards/
 - https://developers.google.com/web/fundamentals/
 
-## Communities
-- http://www.freecodecamp.com/
-- http://www.theodinproject.com/
-
 # Other Link Aggregates
 - https://github.com/sindresorhus/awesome#front-end-development
 - https://github.com/dypsilon/frontend-dev-bookmarks
@@ -144,5 +144,3 @@
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/moklick/frontend-stuff
 - http://www.developintelligence.com/blog/2015/09/02/front-end-development-explained-for-non-developers/
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
