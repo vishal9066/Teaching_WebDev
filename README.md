@@ -144,3 +144,5 @@
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/moklick/frontend-stuff
 - http://www.developintelligence.com/blog/2015/09/02/front-end-development-explained-for-non-developers/
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
