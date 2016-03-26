@@ -81,6 +81,7 @@
     - http://aurelia.io/
     - http://emberjs.com/
     - http://phantomjs.org/
+    - http://backbonejs.org/
   - Backend: (most are also frontend)
     - http://mean.io/
     - http://meanjs.org/
@@ -88,7 +89,8 @@
     - http://expressjs.com/
     - http://hapijs.com/
     - http://sailsjs.org/
-    - http://backbonejs.org/
+    - http://socket.io/
+    - http://koajs.com/
   - Games:
     - http://phaser.io/
 - Other:
