@@ -18,7 +18,7 @@
 - https://scotch.io/
 - https://www.codeschool.com/
 
-## Guides/Tutorials:
+## Guides/Tutorials
 - http://marksheet.io/
 - https://www.javascript.com/
 - http://jsforcats.com/
@@ -38,6 +38,8 @@
 - https://github.com/oneuijs/You-Dont-Need-jQuery
 - http://youmightnotneedjquery.com/
 - http://flexbox.io/
+- http://cssguidelin.es/
+- http://primercss.io/
 
 ## Books
 - http://eloquentjavascript.net/
@@ -47,7 +49,7 @@
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
 
 ## Frameworks/Libraries
-- CSS:
+- CSS
   - http://flexboxgrid.com/
   - http://getbootstrap.com/
   - http://getskeleton.com/
@@ -62,10 +64,10 @@
   - http://milligram.github.io/
   - http://semantic-ui.com/
   - http://materializecss.com/
-- Javascript:
+- Javascript
   - https://babeljs.io/
   - https://github.com/kriskowal/q
-  - Frontend:
+  - Frontend
     - https://jquery.com/
     - https://jqueryui.com/
     - https://qunitjs.com/
@@ -82,7 +84,7 @@
     - http://emberjs.com/
     - http://phantomjs.org/
     - http://backbonejs.org/
-  - Backend: (most are also frontend)
+  - Backend
     - http://mean.io/
     - http://meanjs.org/
     - https://www.meteor.com/
@@ -91,13 +93,13 @@
     - http://sailsjs.org/
     - http://socket.io/
     - http://koajs.com/
-  - Games:
+  - Games
     - http://phaser.io/
-- Other:
+- Other
   - http://googlecreativelab.github.io/coder/
 
 ## Tools
-- Editing/Prototyping:
+- Editing/Prototyping
   - http://codepen.io/
   - http://jsbin.com/
   - https://jsfiddle.net/
@@ -107,7 +109,7 @@
   - https://ideone.com/
   - https://c9.io/
   - https://floobits.com/
-- Debugging:
+- Debugging
   - https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
   - https://www.codeschool.com/courses/discover-devtools
   - https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
@@ -115,22 +117,26 @@
   - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
   - https://github.com/yahoo/debugCSS
   - https://gist.github.com/addyosmani/fd3999ea7fce242756b1
-- Building:
+- Building
   - http://gruntjs.com/
   - http://gulpjs.com/
-- Packaging:
+- Packaging
   - http://webpack.github.io/
   - http://browserify.org/
   - http://rollupjs.org/
   - http://bower.io/
-- Other:
+- Other
   - https://modernizr.com/
   - http://yeoman.io/
-- Profiling:
+- Profiling
   - https://varvy.com/
   - https://gtmetrix.com/
   - http://tools.pingdom.com/fpt/
   - https://github.com/addyosmani/psi
+- Style/Design
+  - http://paletton.com/
+  - https://github.com/shime/creative-commons-media
+  - https://github.com/brabadu/awesome-fonts
 
 ## Best Practicies
 - http://isobar-idev.github.io/code-standards/
