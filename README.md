@@ -41,13 +41,6 @@
 - http://cssguidelin.es/
 - http://primercss.io/
 
-## Books
-- http://eloquentjavascript.net/
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
-
 ## Frameworks/Libraries
 - CSS
   - http://flexboxgrid.com/
@@ -98,7 +91,7 @@
 - Other
   - http://googlecreativelab.github.io/coder/
 
-## Tools
+## Tools/Resources
 - Editing/Prototyping
   - http://codepen.io/
   - http://jsbin.com/
@@ -133,14 +126,28 @@
   - https://gtmetrix.com/
   - http://tools.pingdom.com/fpt/
   - https://github.com/addyosmani/psi
-- Style/Design
+- Design
   - http://paletton.com/
   - https://github.com/shime/creative-commons-media
   - https://github.com/brabadu/awesome-fonts
+  - https://github.com/neutraltone/awesome-stock-resources
+
+## Books
+- http://eloquentjavascript.net/
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
+- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
 
 ## Best Practicies
 - http://isobar-idev.github.io/code-standards/
 - https://developers.google.com/web/fundamentals/
+- http://goodui.org/
+- https://google.github.io/styleguide/htmlcssguide.xml
+- https://github.com/necolas/idiomatic-css#readme
+- http://mdo.github.io/code-guide/
+- https://github.com/csswizardry/CSS-Guidelines#readme
+- https://google.github.io/styleguide/htmlcssguide.xml
 
 # Other Link Aggregates
 - https://github.com/sindresorhus/awesome#front-end-development
