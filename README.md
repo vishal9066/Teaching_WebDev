@@ -17,6 +17,13 @@
 - https://egghead.io/
 - https://scotch.io/
 - https://www.codeschool.com/
+- https://coderbyte.com/
+- https://projecteuler.net/
+- https://codefights.com/
+- https://www.topcoder.com/
+- https://www.reddit.com/r/dailyprogrammer/
+- https://www.codechef.com/
+- http://exercism.io/
 
 ## Guides/Tutorials
 - http://marksheet.io/
