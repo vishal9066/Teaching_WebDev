@@ -45,6 +45,7 @@
 - https://github.com/oneuijs/You-Dont-Need-jQuery
 - http://youmightnotneedjquery.com/
 - http://flexbox.io/
+- https://github.com/philipwalton/solved-by-flexbox
 - http://cssguidelin.es/
 - http://primercss.io/
 
