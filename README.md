@@ -111,6 +111,9 @@
   - https://ideone.com/
   - https://c9.io/
   - https://floobits.com/
+  - https://moqups.com/
+  - http://www.layoutit.com/
+  - http://scripteden.com/builder/bootstrap/
 - Debugging
   - https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
   - https://www.codeschool.com/courses/discover-devtools
