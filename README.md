@@ -1,6 +1,6 @@
 # Teaching WebDev
 
-## General Websites
+## General Teaching Websites
 - https://www.codecademy.com/
 - https://www.khanacademy.org/computing
 - http://www.crunchzilla.com/
@@ -48,6 +48,7 @@
 - https://github.com/philipwalton/solved-by-flexbox
 - http://cssguidelin.es/
 - http://primercss.io/
+- http://javascriptissexy.com/how-to-learn-javascript-properly/
 
 ## Frameworks/Libraries
 - CSS
