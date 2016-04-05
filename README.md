@@ -16,6 +16,7 @@
 - https://www.hackerrank.com/
 - https://egghead.io/
 - https://scotch.io/
+- https://thinkster.io/
 - https://www.codeschool.com/
 - https://coderbyte.com/
 - https://projecteuler.net/
