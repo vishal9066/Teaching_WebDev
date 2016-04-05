@@ -86,6 +86,7 @@
     - http://emberjs.com/
     - http://phantomjs.org/
     - http://backbonejs.org/
+    - http://underscorejs.org/
   - Backend
     - http://mean.io/
     - http://meanjs.org/
