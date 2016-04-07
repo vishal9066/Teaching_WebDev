@@ -25,6 +25,8 @@
 - https://www.reddit.com/r/dailyprogrammer/
 - https://www.codechef.com/
 - http://exercism.io/
+- http://rosettacode.org/wiki/Rosetta_Code
+- https://learnxinyminutes.com/
 
 ## Guides/Tutorials
 - http://marksheet.io/
