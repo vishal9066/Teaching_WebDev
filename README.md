@@ -52,6 +52,7 @@
 - http://cssguidelin.es/
 - http://primercss.io/
 - http://javascriptissexy.com/how-to-learn-javascript-properly/
+- http://sebastien-gabriel.com/designers-guide-to-dpi/
 
 ## Frameworks/Libraries
 - CSS
