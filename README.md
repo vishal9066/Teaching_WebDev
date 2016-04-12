@@ -176,3 +176,4 @@
 - https://github.com/sorrycc/awesome-javascript
 - https://github.com/moklick/frontend-stuff
 - http://www.developintelligence.com/blog/2015/09/02/front-end-development-explained-for-non-developers/
+- https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.ioy2gudpb
