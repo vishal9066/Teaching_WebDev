@@ -143,6 +143,7 @@
   - https://gtmetrix.com/
   - http://tools.pingdom.com/fpt/
   - https://github.com/addyosmani/psi
+  - https://developers.google.com/speed/pagespeed/insights/
 - Design
   - http://paletton.com/
   - https://github.com/shime/creative-commons-media
