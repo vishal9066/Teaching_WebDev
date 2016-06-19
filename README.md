@@ -104,6 +104,7 @@
     - http://phaser.io/
 - Other
   - http://googlecreativelab.github.io/coder/
+  - http://webix.com/
 
 ## Tools/Resources
 - Editing/Prototyping
