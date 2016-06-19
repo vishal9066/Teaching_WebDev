@@ -158,7 +158,7 @@
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#javascript
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#html--css
 
-## Best Practicies
+## Best Practices
 - http://isobar-idev.github.io/code-standards/
 - https://developers.google.com/web/fundamentals/
 - http://goodui.org/
@@ -167,6 +167,11 @@
 - http://mdo.github.io/code-guide/
 - https://github.com/csswizardry/CSS-Guidelines#readme
 - https://google.github.io/styleguide/htmlcssguide.xml
+
+## Practice Projects
+- https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/
+- https://github.com/karan/Projects
+- https://github.com/open-source-society/computer-science
 
 # Other Link Aggregates
 - https://github.com/sindresorhus/awesome#front-end-development
