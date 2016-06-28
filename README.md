@@ -140,11 +140,19 @@
   - https://modernizr.com/
   - http://yeoman.io/
 - Profiling
-  - https://varvy.com/
-  - https://gtmetrix.com/
-  - http://tools.pingdom.com/fpt/
-  - https://github.com/addyosmani/psi
-  - https://developers.google.com/speed/pagespeed/insights/
+  - Performance
+    - https://varvy.com/
+    - https://gtmetrix.com/
+    - http://tools.pingdom.com/fpt/
+    - https://github.com/addyosmani/psi
+    - https://developers.google.com/speed/pagespeed/insights/
+  - Security
+    - https://www.scanmyserver.com/
+    - https://sitecheck.sucuri.net/
+    - https://www.ssllabs.com/ssltest/
+    - https://quttera.com/home
+    - https://asafaweb.com/
+    - https://app.webinspector.com/
 - Design
   - http://paletton.com/
   - https://github.com/shime/creative-commons-media
