@@ -153,6 +153,12 @@
     - https://quttera.com/home
     - https://asafaweb.com/
     - https://app.webinspector.com/
+  - SEO
+    - http://www.powermapper.com/products/sortsite/checks/seo-checks/
+    - http://www.seowebpageanalyzer.com/
+    - http://seositecheckup.com/
+    - https://www.pluginseo.com/
+    - http://www.seo-detective.com/
 - Design
   - http://paletton.com/
   - https://github.com/shime/creative-commons-media
