@@ -146,6 +146,7 @@
     - http://tools.pingdom.com/fpt/
     - https://github.com/addyosmani/psi
     - https://developers.google.com/speed/pagespeed/insights/
+    - https://testmysite.thinkwithgoogle.com/
   - Security
     - https://www.scanmyserver.com/
     - https://sitecheck.sucuri.net/
