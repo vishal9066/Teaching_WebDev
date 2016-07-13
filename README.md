@@ -154,6 +154,10 @@
     - https://quttera.com/home
     - https://asafaweb.com/
     - https://app.webinspector.com/
+    - https://nmap.org/zenmap/
+      - https://www.youtube.com/watch?v=tu4MOCJrRWk
+  - Load Testing
+    - http://locust.io/
   - SEO
     - http://www.powermapper.com/products/sortsite/checks/seo-checks/
     - http://www.seowebpageanalyzer.com/
