@@ -22,11 +22,11 @@
 - https://projecteuler.net/
 - https://codefights.com/
 - https://www.topcoder.com/
-- https://www.reddit.com/r/dailyprogrammer/
 - https://www.codechef.com/
 - http://exercism.io/
 - http://rosettacode.org/wiki/Rosetta_Code
 - https://learnxinyminutes.com/
+- https://github.com/open-source-society/computer-science
 
 ## Guides/Tutorials
 - http://marksheet.io/
@@ -190,7 +190,7 @@
 ## Practice Projects
 - https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/
 - https://github.com/karan/Projects
-- https://github.com/open-source-society/computer-science
+- https://www.reddit.com/r/dailyprogrammer/
 
 # Other Link Aggregates
 - https://github.com/sindresorhus/awesome#front-end-development
