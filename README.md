@@ -136,6 +136,10 @@
   - http://browserify.org/
   - http://rollupjs.org/
   - http://bower.io/
+- Regex
+  - http://regexone.com/ 
+  - https://regex101.com/ 
+  - http://regexr.com/ 
 - Other
   - https://modernizr.com/
   - http://yeoman.io/
