@@ -221,3 +221,5 @@
 - https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.ioy2gudpb
 - https://github.com/dargaCode/WebDevStudyResources
 - https://hackerlists.com/free-javascript-books/
+- https://github.com/Nezteb/Cool_Languages
+- https://github.com/Nezteb/Web_Servers_And_Frameworks
