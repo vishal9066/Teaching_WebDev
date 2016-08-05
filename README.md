@@ -55,124 +55,122 @@
 - http://sebastien-gabriel.com/designers-guide-to-dpi/
 
 ## Frameworks/Libraries
-- CSS
-  - http://flexboxgrid.com/
-  - http://getbootstrap.com/
-  - http://getskeleton.com/
-  - http://foundation.zurb.com/
-  - http://purecss.io/
-  - http://bulma.io/
-  - http://ink.sapo.pt/
-  - http://metroui.org.ua/
-  - http://getuikit.com/
-  - http://getskeleton.com/
-  - http://1000ch.github.io/grd/
-  - http://milligram.github.io/
-  - http://semantic-ui.com/
-  - http://materializecss.com/
-- Javascript
-  - https://babeljs.io/
-  - https://github.com/kriskowal/q
-  - Frontend
-    - https://jquery.com/
-    - https://jqueryui.com/
-    - https://qunitjs.com/
-    - http://sizzlejs.com/
-    - https://github.com/jquery/qunit
-    - http://zeptojs.com/
-    - http://phantomjs.org/
-    - https://angularjs.org/
-    - https://facebook.github.io/react/
-    - https://github.com/reactjs/redux
-    - http://vuejs.org/
-    - http://knockoutjs.com/
-    - http://aurelia.io/
-    - http://emberjs.com/
-    - http://phantomjs.org/
-    - http://backbonejs.org/
-    - http://underscorejs.org/
-  - Backend
-    - http://mean.io/
-    - http://meanjs.org/
-    - https://www.meteor.com/
-    - http://expressjs.com/
-    - http://hapijs.com/
-    - http://sailsjs.org/
-    - http://socket.io/
-    - http://koajs.com/
-  - Games
-    - http://phaser.io/
-- Other
-  - http://googlecreativelab.github.io/coder/
-  - http://webix.com/
+### CSS
+- http://flexboxgrid.com/
+- http://getbootstrap.com/
+- http://getskeleton.com/
+- http://foundation.zurb.com/
+- http://purecss.io/
+- http://bulma.io/
+- http://ink.sapo.pt/
+- http://metroui.org.ua/
+- http://getuikit.com/
+- http://getskeleton.com/
+- http://1000ch.github.io/grd/
+- http://milligram.github.io/
+- http://semantic-ui.com/
+- http://materializecss.com/
+### Javascript
+- https://babeljs.io/
+- https://github.com/kriskowal/q
+#### Frontend
+- https://jquery.com/
+- https://jqueryui.com/
+- https://qunitjs.com/
+- http://sizzlejs.com/
+- https://github.com/jquery/qunit
+- http://zeptojs.com/
+- http://phantomjs.org/
+- https://angularjs.org/
+- https://facebook.github.io/react/
+- https://github.com/reactjs/redux
+- http://vuejs.org/
+- http://knockoutjs.com/
+- http://aurelia.io/
+- http://emberjs.com/
+- http://phantomjs.org/
+- http://backbonejs.org/
+- http://underscorejs.org/
+#### Backend
+- http://mean.io/
+- http://meanjs.org/
+- https://www.meteor.com/
+- http://expressjs.com/
+- http://hapijs.com/
+- http://sailsjs.org/
+- http://socket.io/
+- http://koajs.com/
+### Other
+- http://googlecreativelab.github.io/coder/
+- http://webix.com/
 
 ## Tools/Resources
-- Editing/Prototyping
-  - http://codepen.io/
-  - http://jsbin.com/
-  - https://jsfiddle.net/
-  - http://cssdeck.com/
-  - http://jsdares.com/
-  - http://pingendo.com/
-  - https://ideone.com/
-  - https://c9.io/
-  - https://floobits.com/
-  - https://moqups.com/
-  - http://www.layoutit.com/
-  - http://scripteden.com/builder/bootstrap/
-- Debugging
-  - https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
-  - https://www.codeschool.com/courses/discover-devtools
-  - https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
-  - https://github.com/mrmrs/pesticide
-  - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
-  - https://github.com/yahoo/debugCSS
-  - https://gist.github.com/addyosmani/fd3999ea7fce242756b1
-- Building
-  - http://gruntjs.com/
-  - http://gulpjs.com/
-- Packaging
-  - http://webpack.github.io/
-  - http://browserify.org/
-  - http://rollupjs.org/
-  - http://bower.io/
-- Regex
-  - http://regexone.com/ 
-  - https://regex101.com/ 
-  - http://regexr.com/ 
-- Other
-  - https://modernizr.com/
-  - http://yeoman.io/
-- Profiling
-  - Performance
-    - https://varvy.com/
-    - https://gtmetrix.com/
-    - http://tools.pingdom.com/fpt/
-    - https://github.com/addyosmani/psi
-    - https://developers.google.com/speed/pagespeed/insights/
-    - https://testmysite.thinkwithgoogle.com/
-  - Security
-    - https://www.scanmyserver.com/
-    - https://sitecheck.sucuri.net/
-    - https://www.ssllabs.com/ssltest/
-    - https://quttera.com/home
-    - https://asafaweb.com/
-    - https://app.webinspector.com/
-    - https://nmap.org/zenmap/
-      - https://www.youtube.com/watch?v=tu4MOCJrRWk
-  - Load Testing
-    - http://locust.io/
-  - SEO
-    - http://www.powermapper.com/products/sortsite/checks/seo-checks/
-    - http://www.seowebpageanalyzer.com/
-    - http://seositecheckup.com/
-    - https://www.pluginseo.com/
-    - http://www.seo-detective.com/
-- Design
-  - http://paletton.com/
-  - https://github.com/shime/creative-commons-media
-  - https://github.com/brabadu/awesome-fonts
-  - https://github.com/neutraltone/awesome-stock-resources
+### Editing/Prototyping
+- http://codepen.io/
+- http://jsbin.com/
+- https://jsfiddle.net/
+- http://cssdeck.com/
+- http://jsdares.com/
+- http://pingendo.com/
+- https://ideone.com/
+- https://c9.io/
+- https://floobits.com/
+- https://moqups.com/
+- http://www.layoutit.com/
+- http://scripteden.com/builder/bootstrap/
+### Debugging
+- https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
+- https://www.codeschool.com/courses/discover-devtools
+- https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
+- https://github.com/mrmrs/pesticide
+- https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+- https://github.com/yahoo/debugCSS
+- https://gist.github.com/addyosmani/fd3999ea7fce242756b1
+### Building
+- http://gruntjs.com/
+- http://gulpjs.com/
+### Packaging
+- http://webpack.github.io/
+- http://browserify.org/
+- http://rollupjs.org/
+- http://bower.io/
+### Regex
+- http://regexone.com/ 
+- https://regex101.com/ 
+- http://regexr.com/ 
+### Other
+- https://modernizr.com/
+- http://yeoman.io/
+### Profiling
+#### Performance
+- https://varvy.com/
+- https://gtmetrix.com/
+- http://tools.pingdom.com/fpt/
+- https://github.com/addyosmani/psi
+- https://developers.google.com/speed/pagespeed/insights/
+- https://testmysite.thinkwithgoogle.com/
+#### Security
+- https://www.scanmyserver.com/
+- https://sitecheck.sucuri.net/
+- https://www.ssllabs.com/ssltest/
+- https://quttera.com/home
+- https://asafaweb.com/
+- https://app.webinspector.com/
+- https://nmap.org/zenmap/
+- https://www.youtube.com/watch?v=tu4MOCJrRWk
+#### Load Testing
+- http://locust.io/
+#### SEO
+- http://www.powermapper.com/products/sortsite/checks/seo-checks/
+- http://www.seowebpageanalyzer.com/
+- http://seositecheckup.com/
+- https://www.pluginseo.com/
+- http://www.seo-detective.com/
+### Design
+- http://paletton.com/
+- https://github.com/shime/creative-commons-media
+- https://github.com/brabadu/awesome-fonts
+- https://github.com/neutraltone/awesome-stock-resources
 
 ## Books
 - http://eloquentjavascript.net/
