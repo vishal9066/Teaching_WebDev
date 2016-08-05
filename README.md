@@ -122,6 +122,7 @@
 - https://moqups.com/
 - http://www.layoutit.com/
 - http://scripteden.com/builder/bootstrap/
+
 ### Debugging
 - https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
 - https://www.codeschool.com/courses/discover-devtools
@@ -130,21 +131,26 @@
 - https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
 - https://github.com/yahoo/debugCSS
 - https://gist.github.com/addyosmani/fd3999ea7fce242756b1
+
 ### Building
 - http://gruntjs.com/
 - http://gulpjs.com/
+
 ### Packaging
 - http://webpack.github.io/
 - http://browserify.org/
 - http://rollupjs.org/
 - http://bower.io/
+
 ### Regex
 - http://regexone.com/ 
 - https://regex101.com/ 
 - http://regexr.com/ 
+
 ### Other
 - https://modernizr.com/
 - http://yeoman.io/
+
 ### Profiling
 #### Performance
 - https://varvy.com/
@@ -153,6 +159,7 @@
 - https://github.com/addyosmani/psi
 - https://developers.google.com/speed/pagespeed/insights/
 - https://testmysite.thinkwithgoogle.com/
+
 #### Security
 - https://www.scanmyserver.com/
 - https://sitecheck.sucuri.net/
@@ -162,14 +169,17 @@
 - https://app.webinspector.com/
 - https://nmap.org/zenmap/
 - https://www.youtube.com/watch?v=tu4MOCJrRWk
+
 #### Load Testing
 - http://locust.io/
+
 #### SEO
 - http://www.powermapper.com/products/sortsite/checks/seo-checks/
 - http://www.seowebpageanalyzer.com/
 - http://seositecheckup.com/
 - https://www.pluginseo.com/
 - http://www.seo-detective.com/
+
 ### Design
 - http://paletton.com/
 - https://github.com/shime/creative-commons-media
