@@ -223,3 +223,5 @@
 - https://hackerlists.com/free-javascript-books/
 - https://github.com/Nezteb/Cool_Languages
 - https://github.com/Nezteb/Web_Servers_And_Frameworks
+- https://github.com/Nezteb/Cross_Platform_Applications
+- https://github.com/Nezteb/API_Stuff
