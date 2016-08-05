@@ -70,9 +70,11 @@
 - http://milligram.github.io/
 - http://semantic-ui.com/
 - http://materializecss.com/
+
 ### Javascript
 - https://babeljs.io/
 - https://github.com/kriskowal/q
+
 #### Frontend
 - https://jquery.com/
 - https://jqueryui.com/
@@ -91,6 +93,7 @@
 - http://phantomjs.org/
 - http://backbonejs.org/
 - http://underscorejs.org/
+
 #### Backend
 - http://mean.io/
 - http://meanjs.org/
@@ -100,6 +103,7 @@
 - http://sailsjs.org/
 - http://socket.io/
 - http://koajs.com/
+
 ### Other
 - http://googlecreativelab.github.io/coder/
 - http://webix.com/
