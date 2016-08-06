@@ -84,8 +84,6 @@
 - http://zeptojs.com/
 - http://phantomjs.org/
 - https://angularjs.org/
-- https://facebook.github.io/react/
-- https://github.com/reactjs/redux
 - http://vuejs.org/
 - http://knockoutjs.com/
 - http://aurelia.io/
@@ -93,6 +91,15 @@
 - http://phantomjs.org/
 - http://backbonejs.org/
 - http://underscorejs.org/
+
+##### React
+- https://facebook.github.io/react/
+- https://facebook.github.io/react/docs/getting-started.html
+- https://github.com/reactjs/redux
+- https://egghead.io/courses/getting-started-with-redux
+- https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux
+- http://redux.js.org/
+
 
 #### Backend
 - http://mean.io/
