@@ -100,7 +100,7 @@
 - https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux
 - http://redux.js.org/
 
-#### Backend
+### Node
 - http://mean.io/
 - http://meanjs.org/
 - https://www.meteor.com/
