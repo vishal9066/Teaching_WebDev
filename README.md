@@ -72,10 +72,8 @@
 - http://materializecss.com/
 
 ### Javascript
-- https://babeljs.io/
-- https://github.com/kriskowal/q
-
 #### Frontend
+- https://babeljs.io/
 - https://jquery.com/
 - https://jqueryui.com/
 - https://qunitjs.com/
@@ -91,6 +89,7 @@
 - http://phantomjs.org/
 - http://backbonejs.org/
 - http://underscorejs.org/
+- https://github.com/kriskowal/q
 
 ##### React
 - https://facebook.github.io/react/
@@ -100,16 +99,19 @@
 - https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux
 - http://redux.js.org/
 
-
 #### Backend
 - http://mean.io/
 - http://meanjs.org/
 - https://www.meteor.com/
 - http://expressjs.com/
+- http://mongoosejs.com/
 - http://hapijs.com/
 - http://sailsjs.org/
 - http://socket.io/
 - http://koajs.com/
+- http://passportjs.org/
+- https://caolan.github.io/async/
+- http://bluebirdjs.com/docs/getting-started.html
 
 ### Other
 - http://googlecreativelab.github.io/coder/
@@ -179,6 +181,12 @@
 
 #### Load Testing
 - http://locust.io/
+- https://artillery.io/
+- https://github.com/tsenart/vegeta
+- https://github.com/newsapps/beeswithmachineguns
+- https://github.com/gatling/gatling
+- https://github.com/session-replay-tools/tcpcopy
+- https://github.com/goadapp/goad
 
 #### SEO
 - http://www.powermapper.com/products/sortsite/checks/seo-checks/
