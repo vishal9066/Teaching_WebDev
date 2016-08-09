@@ -156,6 +156,7 @@
 - http://regexone.com/ 
 - https://regex101.com/ 
 - http://regexr.com/ 
+- https://fent.github.io/randexp.js/
 
 ### Other
 - https://modernizr.com/
