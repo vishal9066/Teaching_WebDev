@@ -5,7 +5,7 @@
 - https://www.khanacademy.org/computing
 - http://www.crunchzilla.com/
 - http://code.tutsplus.com/
-- http://www.lynda.com/Developer-training-tutorials/50-0.html
+- https://www.sololearn.com/Courses/
 - https://www.udacity.com/courses/web-development
 - https://www.udemy.com/courses/development/web-development/
 - https://www.coursera.org/browse/computer-science/mobile-and-web-development
