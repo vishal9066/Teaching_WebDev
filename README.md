@@ -134,6 +134,13 @@
 - http://www.layoutit.com/
 - http://scripteden.com/builder/bootstrap/
 
+### Snippets
+- http://bootsnipp.com/
+- http://bootdey.com/bootstrap-snippets
+- http://www.bootbundle.com/tool/snippets
+- http://bootstrap.snipplicious.com/
+- http://ibootstrap.net/
+
 ### Debugging
 - https://developers.google.com/web/tools/chrome-devtools/debug/?hl=en
 - https://www.codeschool.com/courses/discover-devtools
