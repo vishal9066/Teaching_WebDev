@@ -225,6 +225,7 @@
 - https://www.materialui.co/colors
 - http://paletton.com/
 - https://coolors.co/app
+- https://www.materialpalette.com/
 
 ## Books
 - http://eloquentjavascript.net/
