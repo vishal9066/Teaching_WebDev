@@ -206,27 +206,6 @@
 - https://www.pluginseo.com/
 - http://www.seo-detective.com/
 
-### Design
-- http://paletton.com/
-- https://github.com/shime/creative-commons-media
-- https://github.com/brabadu/awesome-fonts
-- https://github.com/neutraltone/awesome-stock-resources
-
-### Images
-- https://www.google.com/advanced_image_search (edit license)
-- https://www.flickr.com/search/ (edit license)
-- https://www.pexels.com/
-- https://unsplash.com/
-- https://stocksnap.io/
-- http://www.gratisography.com/
-- https://pixabay.com/
-
-### Colors
-- https://www.materialui.co/colors
-- http://paletton.com/
-- https://coolors.co/app
-- https://www.materialpalette.com/
-
 ## Books
 - http://eloquentjavascript.net/
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#html--css
