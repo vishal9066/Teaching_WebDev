@@ -92,6 +92,7 @@
 - http://backbonejs.org/
 - http://underscorejs.org/
 - https://github.com/kriskowal/q
+- https://preactjs.com/
 
 ##### React
 - https://facebook.github.io/react/
