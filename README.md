@@ -93,6 +93,7 @@
 - http://underscorejs.org/
 - https://github.com/kriskowal/q
 - https://preactjs.com/
+- https://infernojs.org/
 
 ##### React
 - https://facebook.github.io/react/
