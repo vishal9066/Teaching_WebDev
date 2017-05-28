@@ -80,20 +80,15 @@
 - https://jqueryui.com/
 - https://qunitjs.com/
 - http://sizzlejs.com/
-- https://github.com/jquery/qunit
 - http://zeptojs.com/
-- http://phantomjs.org/
 - https://angularjs.org/
 - http://vuejs.org/
 - http://knockoutjs.com/
 - http://aurelia.io/
 - http://emberjs.com/
-- http://phantomjs.org/
 - http://backbonejs.org/
 - http://underscorejs.org/
 - https://github.com/kriskowal/q
-- https://preactjs.com/
-- https://infernojs.org/
 
 ##### React
 - https://facebook.github.io/react/
@@ -102,6 +97,9 @@
 - https://egghead.io/courses/getting-started-with-redux
 - https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux
 - http://redux.js.org/
+- Other
+  - https://preactjs.com/
+  - https://infernojs.org/
 
 ### Node
 - http://mean.io/
@@ -152,7 +150,16 @@
 - https://github.com/yahoo/debugCSS
 - https://gist.github.com/addyosmani/fd3999ea7fce242756b1
 
+### Testing
+- https://mochajs.org/
+- https://jasmine.github.io/
+- http://phantomjs.org/
+- https://karma-runner.github.io
+- https://qunitjs.com/
+
 ### Building
+- https://docs.npmjs.com/
+- https://yarnpkg.com/en/
 - http://gruntjs.com/
 - http://gulpjs.com/
 - http://brunch.io/
