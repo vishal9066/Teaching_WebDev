@@ -10,9 +10,9 @@
 - https://www.udemy.com/courses/development/web-development/
 - https://www.coursera.org/browse/computer-science/mobile-and-web-development
 - https://www.edx.org/course/subject/computer-science
-- http://www.freecodecamp.com/
-- http://www.theodinproject.com/
-- http://www.codewars.com/
+- https://www.freecodecamp.com/
+- https://www.theodinproject.com/
+- https://www.codewars.com/
 - https://www.hackerrank.com/
 - https://egghead.io/
 - https://scotch.io/
